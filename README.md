@@ -299,6 +299,9 @@ I build intelligent systems that connect AI models with real business operations
 
 ## 🏆 Achievements & Hackathons
 
+🏅 **Honorable Mention — International Youth AI Competition**  
+Recognized by the International AI Youth Education Society for **PotholeRadar** in recognition of outstanding achievement in international youth AI competitions held between **June 1, 2026, and September 1, 2026**. Issued on **September 30, 2026**.
+
 🥇 **AI Seekho 2026 Google Antigravity National Hackathon**  
 *Google for Developers × Telenor × Innovista*  
 Developed an AI-orchestrated project demonstrating rapid prototyping, cross-functional teamwork, and AI-native development methodologies.
