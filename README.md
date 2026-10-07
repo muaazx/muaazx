@@ -38,6 +38,7 @@ I work with businesses to identify repetitive processes, connect their existing 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -48,6 +49,8 @@ I work with businesses to identify repetitive processes, connect their existing 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=react&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
 
 ### Backend & API Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -56,18 +59,29 @@ I work with businesses to identify repetitive processes, connect their existing 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0066CC?style=for-the-badge&logo=swagger&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-6C63FF?style=for-the-badge&logo=webhooks&logoColor=white)
+![Cheerio](https://img.shields.io/badge/Cheerio-E88C1A?style=for-the-badge&logo=node.js&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-### Databases & Data
+### Databases, Data & Vector Search
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-D50000?style=for-the-badge&logo=qdrant&logoColor=white)
 
 ### Generative AI & LLM Engineering
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![RAG Systems](https://img.shields.io/badge/RAG_Systems-FF6B00?style=for-the-badge&logo=openai&logoColor=white)
 ![LLM Integration](https://img.shields.io/badge/LLM_Integration-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00A4EF?style=for-the-badge&logo=openai&logoColor=white)
@@ -82,11 +96,23 @@ I work with businesses to identify repetitive processes, connect their existing 
 ![CRM Automation](https://img.shields.io/badge/CRM_Automation-0A66C2?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Tool Calling](https://img.shields.io/badge/Tool_Calling-6C63FF?style=for-the-badge&logo=function&logoColor=white)
 ![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-13C2C2?style=for-the-badge&logo=automation&logoColor=white)
+![WhatsApp Business](https://img.shields.io/badge/WhatsApp_Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
-### Cloud & DevOps
+### Cloud, DevOps & CI/CD
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
@@ -95,7 +121,8 @@ I work with businesses to identify repetitive processes, connect their existing 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=black)
+![WhatsApp Cloud API](https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Xero](https://img.shields.io/badge/Xero-13B5EA?style=for-the-badge&logo=xero&logoColor=white)
 
 ---
@@ -142,21 +169,22 @@ Advanced AI-driven platform combining satellite imagery analysis, crop health mo
 
 ---
 
-### 3. 📊 Quick Resume AI — Full-Stack Resume Builder
+### 3. 📈 Investo — AI-Powered Investment Advisor Platform
 
-**Modern resume builder with AI-powered content generation and advanced MongoDB architecture.**
+**An AI-powered investment advisor that helps users make smarter investment decisions by analyzing real-estate and financial data.**
+
+Investo combines AI-driven analysis, financial data ingestion, and a responsive web and mobile experience to provide users with traceable investment recommendations and decision-support insights.
 
 **Key Features:**
-- ✨ AI-powered resume content generation with Google Gemini
-- 🔐 Clerk authentication with role-based access
-- 💾 MongoDB aggregation pipelines, compound indexing, and transactions
-- 📑 Multi-step resume creation workflow
-- 🎨 Real-time preview and export capabilities
-- 📈 Read-only data views for analytics
+- 🤖 **AI-Driven Investment Recommendations** — Generates data-informed guidance for potential investment opportunities
+- 📊 **Real-Time Investment Analysis** — Processes current real-estate and financial data to support timely decisions
+- 🔐 **User Authentication** — Secure account access and personalized user experiences
+- 🔍 **Traceable AI Reasoning & Scoring** — Makes recommendations more transparent by exposing the reasoning and scoring behind each result
+- 📱 **Responsive React Web Application** — Modern, responsive interface for desktop and mobile browsers
+- 📲 **Native Android App** — Mobile deployment using Capacitor and Android Studio
+- 🕷️ **Data Scraping & Feed Ingestion** — Express.js backend for collecting and processing financial and real-estate data
 
-**Technologies:** Next.js, TypeScript, MongoDB, Mongoose, Google Gemini API, Clerk, Tailwind CSS, React Hook Form
-
-**Repository:** [github.com/muaazx/Quick-Resume-AI](https://github.com/muaazx/Quick-Resume-AI)
+**Technologies:** React, Vite, Node.js, Express.js, Capacitor, Android Studio, Cheerio, JavaScript, HTML, CSS, AI integration, backend APIs, data scraping, and feed ingestion
 
 ---
 
@@ -241,6 +269,7 @@ I build intelligent systems that connect AI models with real business operations
 - **Workflow Automation** — n8n, Zapier, webhooks, APIs, and custom automation infrastructure
 - **AI-Powered SaaS** — Scalable platforms that combine intelligent features with reliable business software
 - **Business Intelligence Dashboards** — Operational reporting, profitability tracking, approvals, and executive insights
+- **Cloud & DevOps Engineering** — Cloud deployments, containerization, infrastructure automation, CI/CD pipelines, and production monitoring
 
 ---
 
@@ -276,13 +305,15 @@ Developed an AI-focused application integrating Generative AI capabilities.
 - Integrate business platforms including accounting systems, CRMs, calendars, messaging tools, and payment workflows
 - Build scalable backend APIs, webhooks, event-driven integrations, and executive dashboards
 - Implement document intelligence pipelines for receipts, invoices, and operational records
+- Deploy and maintain cloud infrastructure, CI/CD workflows, containers, and production services
 
 ### Full-Stack Web Development & Generative AI
 
 - Develop SaaS applications using React, Next.js, Node.js, FastAPI, and cloud-native technologies
-- Integrate Gemini, Vertex AI, and other LLM services into real-world applications
+- Integrate Gemini, Vertex AI, OpenAI, and other LLM services into real-world applications
 - Design robust database architectures, API layers, authentication systems, and data workflows
 - Build responsive, performant, and user-focused web applications
+- Develop mobile applications and Android deployments using Capacitor
 
 ### Web Development Internship
 **ILSA Interactive Software House**
@@ -340,9 +371,12 @@ Events volunteer supporting AI-focused workshops, technical sessions, and commun
 - 💬 WhatsApp conversational business systems
 - 🎤 Voice AI and intelligent call automation
 - 🧾 AI-powered quoting, invoicing, and document processing
+- 📈 AI-powered investment analysis and financial intelligence
 - 🏗️ AI-powered SaaS architecture and internal business platforms
-- 📡 Event-driven APIs, webhooks, and cloud-native systems
-- 📈 Business intelligence, profitability tracking, and executive dashboards
+- 📱 Cross-platform mobile applications and Android deployments
+- ☁️ AWS, Google Cloud, cloud-native systems, and infrastructure automation
+- 🔄 CI/CD pipelines, DevOps practices, containerization, and production monitoring
+- 📡 Event-driven APIs, webhooks, and scalable backend services
 
 ---
 
@@ -358,6 +392,6 @@ Events volunteer supporting AI-focused workshops, technical sessions, and commun
 
 **Building intelligent, scalable, and automated business solutions with AI.**
 
-*Open to collaborations on LLM applications, AI agents, CRM automation, RAG systems, and full-stack AI products.*
+*Open to collaborations on LLM applications, AI agents, CRM automation, RAG systems, cloud platforms, and full-stack AI products.*
 
 </div>
