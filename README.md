@@ -24,6 +24,7 @@ My experience includes designing and deploying:
 - AI-powered SaaS platforms and internal business tools
 - Data extraction pipelines for documents, receipts, and business records
 - Scalable APIs, cloud applications, and automation infrastructure
+- AI-assisted software development and prompt-driven engineering workflows
 
 I work with businesses to identify repetitive processes, connect their existing tools, and implement intelligent automation that saves time, reduces manual work, and improves customer experience.
 
@@ -95,6 +96,14 @@ I work with businesses to identify repetitive processes, connect their existing 
 ![Tool Calling](https://img.shields.io/badge/Tool_Calling-6C63FF?style=for-the-badge&logo=function&logoColor=white)
 ![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-13C2C2?style=for-the-badge&logo=automation&logoColor=white)
 ![WhatsApp Business](https://img.shields.io/badge/WhatsApp_Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+### AI-Assisted Coding & Prompt Engineering
+![AI Assisted Coding](https://img.shields.io/badge/AI--Assisted_Coding-6E40C9?style=for-the-badge&logo=github-copilot&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Expert_Claude_Code_User-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/Expert_Codex_User-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Advanced_Prompt_Engineering-00A4EF?style=for-the-badge&logo=openai&logoColor=white)
+![Context Engineering](https://img.shields.io/badge/Context_Engineering-7B61FF?style=for-the-badge&logo=openai&logoColor=white)
+![Spec Driven Development](https://img.shields.io/badge/Spec--Driven_Development-0A7EA4?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Cloud, DevOps & CI/CD
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -283,6 +292,7 @@ I build intelligent systems that connect AI models with real business operations
 - **Workflow Automation** — n8n, Zapier, webhooks, APIs, and custom automation infrastructure
 - **AI-Powered SaaS** — Scalable platforms that combine intelligent features with reliable business software
 - **Business Intelligence Dashboards** — Operational reporting, profitability tracking, approvals, and executive insights
+- **AI-Assisted Engineering** — Expert use of Claude Code, OpenAI Codex, prompt engineering, context engineering, and spec-driven development
 - **Cloud & DevOps Engineering** — Cloud deployments, containerization, infrastructure automation, CI/CD pipelines, and production monitoring
 
 ---
@@ -319,6 +329,7 @@ Developed an AI-focused application integrating Generative AI capabilities.
 - Integrate business platforms including accounting systems, CRMs, calendars, messaging tools, and payment workflows
 - Build scalable backend APIs, webhooks, event-driven integrations, and executive dashboards
 - Implement document intelligence pipelines for receipts, invoices, and operational records
+- Use AI-assisted coding workflows with Claude Code, OpenAI Codex, prompt engineering, and context engineering
 - Deploy and maintain cloud infrastructure, CI/CD workflows, containers, and production services
 
 ### Full-Stack Web Development & Generative AI
@@ -386,6 +397,7 @@ Events volunteer supporting AI-focused workshops, technical sessions, and commun
 - 🧾 AI-powered quoting, invoicing, and document processing
 - 📈 AI-powered investment analysis and financial intelligence
 - 🛣️ Civic technology, geospatial applications, and community reporting platforms
+- 🧠 AI-assisted coding, prompt engineering, and AI-native product development
 - 🏗️ AI-powered SaaS architecture and internal business platforms
 - ☁️ AWS, Google Cloud, cloud-native systems, and infrastructure automation
 - 🔄 CI/CD pipelines, DevOps practices, containerization, and production monitoring
