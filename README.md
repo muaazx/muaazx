@@ -1,14 +1,31 @@
 # Muhammad Muaaz Ahmad
 
-### Full-Stack Developer | Generative AI Developer | AI Agents & Automation Specialist
+### Expert AI Engineer | AI Automation Engineer | Full-Stack AI Systems Architect
+
+I design and build intelligent software systems that help businesses automate operations, serve customers faster, and make better decisions with AI.
 
 ---
 
 ## 🎯 About Me
 
-I'm a full-stack software engineer specializing in **Generative AI applications**, **AI agents**, and **workflow automation**. I design and build production-ready web applications, LLM-powered systems, and intelligent automation solutions that solve real-world problems.
+I am an **Expert AI Engineer and AI Automation Engineer** specializing in production-grade **LLM applications, RAG systems, AI agents, CRM automation, voice AI, and business workflow automation**.
 
-With expertise in **full-stack web development**, **RAG systems**, **AI orchestration**, and **scalable backend architecture**, I create sophisticated applications that integrate cutting-edge AI capabilities with robust infrastructure. My focus is on delivering **scalable SaaS solutions**, **intelligent automation workflows**, and **AI-native applications**.
+I build practical AI solutions for businesses that want to move beyond basic chatbots. My work combines intelligent conversational interfaces, reliable backend systems, business process automation, and executive dashboards to create software that delivers measurable operational value.
+
+My experience includes designing and deploying:
+
+- LLM-powered business assistants and AI agents
+- Retrieval-Augmented Generation (RAG) systems
+- CRM and sales pipeline automation
+- WhatsApp-based customer and operations workflows
+- Voice AI agents for lead qualification and appointment booking
+- Automated quoting, invoicing, and customer support systems
+- Multi-agent orchestration and tool-calling workflows
+- AI-powered SaaS platforms and internal business tools
+- Data extraction pipelines for documents, receipts, and business records
+- Scalable APIs, cloud applications, and automation infrastructure
+
+I work with businesses to identify repetitive processes, connect their existing tools, and implement intelligent automation that saves time, reduces manual work, and improves customer experience.
 
 ---
 
@@ -38,6 +55,7 @@ With expertise in **full-stack web development**, **RAG systems**, **AI orchestr
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0066CC?style=for-the-badge&logo=swagger&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-6C63FF?style=for-the-badge&logo=webhooks&logoColor=white)
 
 ### Databases & Data
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -47,19 +65,21 @@ With expertise in **full-stack web development**, **RAG systems**, **AI orchestr
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### Generative AI & LLM
+### Generative AI & LLM Engineering
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![RAG Systems](https://img.shields.io/badge/RAG_Systems-FF6B00?style=for-the-badge&logo=openai&logoColor=white)
 ![LLM Integration](https://img.shields.io/badge/LLM_Integration-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00A4EF?style=for-the-badge&logo=openai&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-FF6B00?style=for-the-badge&logo=openai&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C2D91?style=for-the-badge&logo=opencv&logoColor=white)
 
-### AI Agents & Automation
+### AI Agents, CRM & Automation
 ![AI Agents](https://img.shields.io/badge/AI_Agents-9C27B0?style=for-the-badge&logo=robot&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6600?style=for-the-badge&logo=n8n&logoColor=white)
 ![Vapi](https://img.shields.io/badge/Vapi-4A9EFF?style=for-the-badge&logo=voice&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![CRM Automation](https://img.shields.io/badge/CRM_Automation-0A66C2?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Tool Calling](https://img.shields.io/badge/Tool_Calling-6C63FF?style=for-the-badge&logo=function&logoColor=white)
 ![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-13C2C2?style=for-the-badge&logo=automation&logoColor=white)
 
@@ -70,89 +90,103 @@ With expertise in **full-stack web development**, **RAG systems**, **AI orchestr
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-### Developer Tools
+### Developer Tools & Integrations
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Xero](https://img.shields.io/badge/Xero-13B5EA?style=for-the-badge&logo=xero&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. 🌾 AgriSol — AI Agricultural Intelligence Platform
+### 1. 🇦🇺 Gus — AI Business Offsider for Australian Trade Businesses
 
-**An intelligent agricultural assistant for Pakistani farmers powered by Generative AI**
+**An AI-powered business assistant built for Australian builders, plumbers, electricians, carpenters, and contractors.**
+
+Gus acts as a digital business offsider for trade businesses. It runs primarily through **WhatsApp**, allowing tradies to manage quotes, invoices, receipts, expenses, customers, jobs, and follow-ups through natural conversation instead of spending evenings inside accounting or CRM software. An executive web dashboard provides visibility into business operations, job profitability, tax deadlines, approvals, and marketing activity.
+
+**Key Features:**
+- 💬 **Conversational Quoting & Invoicing** — Drafts professional quotes and sales invoices from natural WhatsApp messages
+- ✅ **Intelligent Validation** — Validates line items, GST or tax-exempt settings, customer details, and payment due dates
+- 🔗 **Bidirectional Xero Integration** — Pushes AI-drafted invoices to Xero as draft sales records and synchronizes approved, paid, and voided invoice statuses
+- 🧾 **Receipt & Expense Capture** — Extracts information from supplier dockets and receipts sent through WhatsApp using vision-powered processing
+- 📈 **Job Profitability Tracking** — Calculates gross profit by comparing invoiced revenue with tracked materials and supplier bills
+- 🇦🇺 **Australian Tax Workflow Support** — Monitors ATO quarterly BAS deadlines and surfaces compliance-related actions
+- 🗂️ **Executive Operations Dashboard** — Provides draft review queues, pending approvals, scheduled site visits, and business performance insights
+- 📣 **Lead Pipeline & Marketing Automation** — Tracks customer enquiries, pipeline stages, Meta campaigns, social content packs, and calendar bookings
+
+**Technologies & Integrations:** LLMs, conversational AI, WhatsApp Business, Xero API, webhooks, vision-based document extraction, CRM automation, workflow orchestration, and executive dashboards
+
+---
+
+### 2. 🌾 AgriSol — AI Agricultural Intelligence Platform
+
+**An intelligent agricultural assistant for Pakistani farmers powered by Generative AI.**
 
 Advanced AI-driven platform combining satellite imagery analysis, crop health monitoring, market intelligence, and multilingual voice interaction to provide farmers with actionable insights.
 
 **Key Features:**
-- 🤖 **Gemini 2.5 Multilingual AI Assistant** — Urdu & English voice interaction
-- 🌍 **Real-time Satellite Analysis** — Google Earth Engine Sentinel-2 NDVI crop health monitoring
+- 🤖 **Gemini Multilingual AI Assistant** — Urdu and English voice interaction
+- 🌍 **Satellite Analysis** — Google Earth Engine Sentinel-2 NDVI crop health monitoring
 - 🎯 **YOLOv8 Crop Classification** — Custom-trained computer vision for crop identification
 - 📊 **Market Price Intelligence** — Automated agricultural commodity price scraping
-- 🌤️ **Weather Intelligence** — Google Maps weather integration & forecasting
-- 🗺️ **Geographic Analysis** — Location-aware farming recommendations
+- 🌤️ **Weather Intelligence** — Location-aware weather insights and forecasting
+- 🗺️ **Geographic Analysis** — Farming recommendations based on location and field conditions
 
 **Technologies:** TypeScript, React, Vite, Node.js, Google Gemini API, Google Earth Engine, Vertex AI, YOLOv8, Google Cloud
 
-**Repository:** [github.com/muaazx/Agrisol](https://github.com/muaazx/Agrisol---A-Kisanbot)
+**Repository:** [github.com/muaazx/Agrisol---A-Kisanbot](https://github.com/muaazx/Agrisol---A-Kisanbot)
 
 ---
 
-### 2. 📊 Quick Resume AI — Full-Stack Resume Builder
+### 3. 📊 Quick Resume AI — Full-Stack Resume Builder
 
-**Modern resume builder with AI-powered content generation and MongoDB optimization**
-
-Full-stack SaaS application featuring multi-step form wizards, Clerk authentication, real-time persistence, and advanced MongoDB patterns.
+**Modern resume builder with AI-powered content generation and advanced MongoDB architecture.**
 
 **Key Features:**
-- ✨ **AI Resume Generation** — Google Gemini-powered content enhancement
-- 🔐 **Secure Authentication** — Clerk integration with role-based access
-- 💾 **Advanced Data Persistence** — MongoDB aggregation pipelines, compound indexing, multi-document transactions
-- 📑 **Multi-step Form Wizard** — Intuitive resume building experience
-- 🎨 **Real-time Preview** — Live resume rendering with export capabilities
-- 📈 **Read-only Views** — Specialized MongoDB read views for analytics
+- ✨ AI-powered resume content generation with Google Gemini
+- 🔐 Clerk authentication with role-based access
+- 💾 MongoDB aggregation pipelines, compound indexing, and transactions
+- 📑 Multi-step resume creation workflow
+- 🎨 Real-time preview and export capabilities
+- 📈 Read-only data views for analytics
 
-**Technologies:** Next.js 14, TypeScript, MongoDB, Mongoose, Google Gemini API, Clerk, Tailwind CSS, React Hook Form
+**Technologies:** Next.js, TypeScript, MongoDB, Mongoose, Google Gemini API, Clerk, Tailwind CSS, React Hook Form
 
 **Repository:** [github.com/muaazx/Quick-Resume-AI](https://github.com/muaazx/Quick-Resume-AI)
 
 ---
 
-### 3. 💼 Rolled — Comprehensive Business Management SaaS
+### 4. 💼 Rolled — Business Management SaaS
 
-**All-in-one business operations platform for invoicing, payroll, and staff management**
-
-Enterprise-grade SaaS application built with modern Next.js and Firebase, designed to streamline business workflows.
+**An all-in-one business operations platform for invoicing, payroll, and staff management.**
 
 **Key Features:**
-- 📄 **Invoice Management** — Professional invoice generation and tracking
-- 💰 **Payroll Processing** — Automated employee payroll calculations
-- 👥 **Staff Directory** — Centralized employee management and organization
-- 🔐 **Enterprise Authentication** — Secure user authentication and access control
-- ☁️ **Cloud Backend** — Firebase real-time database and Firestore
-- 📊 **Dashboard Analytics** — Business metrics and performance insights
-- 🎨 **Modern UI** — Responsive dark-mode interface with Tailwind CSS
-- 📱 **QR Code Integration** — Invoice and document QR code generation
+- 📄 Invoice generation and tracking
+- 💰 Automated employee payroll calculations
+- 👥 Centralized staff directory
+- 🔐 Secure authentication and access control
+- ☁️ Firebase and Firestore cloud backend
+- 📊 Business dashboard analytics
+- 📱 QR code generation for invoices and documents
 
-**Technologies:** Next.js 16, TypeScript, Firebase, Firestore, Tailwind CSS, React, Resend (Email), Recharts
+**Technologies:** Next.js, TypeScript, Firebase, Firestore, Tailwind CSS, React, Resend, Recharts
 
 **Repository:** [github.com/muaazx/Rolled](https://github.com/muaazx/Rolled)
 
 ---
 
-### 4. 🏥 Smart Doctor Connect AI — AI Healthcare Assistant
+### 5. 🏥 Smart Doctor Connect AI — AI Healthcare Assistant
 
-**MTM Hackathon Project: Intelligent healthcare assistant powered by AI**
-
-AI-driven healthcare platform demonstrating LLM integration and intelligent query processing for medical assistance.
+**An AI-driven healthcare platform demonstrating LLM integration and intelligent query processing.**
 
 **Key Features:**
-- 🤖 **AI Medical Assistant** — LLM-powered healthcare guidance
-- 💬 **Conversational Interface** — Natural language medical queries
-- 🔍 **Symptom Analysis** — AI-based symptom evaluation
+- 🤖 LLM-powered healthcare assistant
+- 💬 Conversational medical query interface
+- 🔍 AI-assisted symptom analysis
 
 **Technologies:** TypeScript, React, Node.js, Generative AI
 
@@ -160,17 +194,15 @@ AI-driven healthcare platform demonstrating LLM integration and intelligent quer
 
 ---
 
-### 5. 🎓 CamFord Academiya — Elite Educational Institute Website
+### 6. 🎓 CamFord Academiya — Educational Institute Platform
 
-**Professional website for premium O & A Level coaching institution**
-
-Full-stack educational platform showcasing the institute's elite academic positioning and coaching excellence.
+**Professional website for a premium O and A Level coaching institution.**
 
 **Key Features:**
-- 📚 **Program Information** — Comprehensive course offerings and curriculum
-- 🎯 **Success Metrics** — CAIE exam performance data and student achievements
-- 📋 **Enrollment Management** — Student intake and registration
-- 🏆 **Achievement Showcase** — Highlighting academic excellence
+- 📚 Program information and curriculum showcase
+- 🎯 Success metrics and academic achievements
+- 📋 Enrollment and registration workflows
+- 🏆 Student achievement showcase
 
 **Technologies:** Next.js, TypeScript, Tailwind CSS
 
@@ -178,17 +210,15 @@ Full-stack educational platform showcasing the institute's elite academic positi
 
 ---
 
-### 6. 💱 CurrencyX — Real-Time Currency Converter
+### 7. 💱 CurrencyX — Real-Time Currency Converter
 
-**Lightweight currency conversion web application with 150+ currencies**
-
-Fast, responsive currency converter powered by ExchangeRate-API and deployed globally.
+**Lightweight currency conversion application supporting more than 150 currencies.**
 
 **Key Features:**
-- 💱 **Real-time Exchange Rates** — 150+ currency support
-- ⚡ **Instant Conversion** — Zero-latency currency calculations
-- 🎨 **Modern UI** — Clean, intuitive interface
-- 🌐 **Global Deployment** — Vercel CDN optimization
+- 💱 Real-time exchange rates
+- ⚡ Instant currency conversion
+- 🎨 Clean and responsive interface
+- 🌐 Global deployment through Vercel
 
 **Technologies:** HTML5, CSS3, JavaScript, ExchangeRate-API
 
@@ -196,86 +226,96 @@ Fast, responsive currency converter powered by ExchangeRate-API and deployed glo
 
 ---
 
-## 🤖 AI Agents & Automation
+## 🤖 AI Engineering & Automation Services
 
-I specialize in building **intelligent AI agents**, **agentic workflows**, and **advanced automation systems**:
+I build intelligent systems that connect AI models with real business operations:
 
-- **AI Agent Development** — Building autonomous agents with reasoning and decision-making capabilities
-- **LLM-Powered Assistants** — Conversational AI systems with tool integration
-- **RAG Agents** — Retrieval-augmented generation systems for knowledge-grounded responses
-- **Tool & Function Calling** — Enabling AI models to interact with external APIs and services
-- **Multi-Agent Systems** — Orchestrating multiple AI agents for complex workflows
-- **Workflow Automation** — n8n, Zapier, and custom automation solutions
-- **Voice AI Agents** — Vapi-powered voice interaction systems
-- **Business Process Automation** — End-to-end workflow orchestration
-- **AI-Powered Customer Support** — Intelligent chatbots and support automation
-- **LLM Orchestration** — Advanced prompt chaining and multi-step reasoning
+- **LLM Application Development** — Production-ready applications powered by modern language models
+- **RAG Systems** — Knowledge-grounded assistants that retrieve accurate information from business data
+- **AI Agent Development** — Autonomous agents with reasoning, memory, tools, and decision-making workflows
+- **CRM Automation** — Lead capture, qualification, follow-ups, pipeline management, and customer engagement
+- **WhatsApp Business Automation** — Conversational workflows for sales, support, quoting, invoicing, and operations
+- **Voice AI Agents** — Voice-based lead qualification, appointment booking, and customer support
+- **Document Intelligence** — Vision-powered extraction from receipts, invoices, forms, and business documents
+- **Multi-Agent Orchestration** — Coordinating specialized agents for complex business processes
+- **Workflow Automation** — n8n, Zapier, webhooks, APIs, and custom automation infrastructure
+- **AI-Powered SaaS** — Scalable platforms that combine intelligent features with reliable business software
+- **Business Intelligence Dashboards** — Operational reporting, profitability tracking, approvals, and executive insights
 
 ---
 
 ## 🏆 Achievements & Hackathons
 
-🥇 **AI Seekho 2026 Google Antigravity National Hackathon**
-*Google for Developers × Telenor × Innovista*
-Developed an AI-orchestrated project demonstrating advanced rapid prototyping, cross-functional teamwork, and AI-native development methodologies.
+🥇 **AI Seekho 2026 Google Antigravity National Hackathon**  
+*Google for Developers × Telenor × Innovista*  
+Developed an AI-orchestrated project demonstrating rapid prototyping, cross-functional teamwork, and AI-native development methodologies.
 
-🥇 **GDGoC IST Innovators Challenge** — Top 6 out of 40 teams
-Recognized for innovative technical solution and presentation excellence among competitive cohort.
+🥇 **GDGoC IST Innovators Challenge** — Top 6 out of 40 teams  
+Recognized for innovative technical solution and presentation excellence.
 
-🥇 **HireOnRank Hackathon** — 4th Place out of 44 teams
+🥇 **HireOnRank Hackathon** — 4th place out of 44 teams  
 Built a competitive project showcasing full-stack development and problem-solving capabilities.
 
-🥇 **COMPPEC 2026 – NUST** — AI/Hackathon Competition
-Participated in national-level AI hackathon competition at premier engineering institution.
+🥇 **COMPPEC 2026 – NUST** — AI and Hackathon Competition  
+Participated in a national-level AI competition at a leading engineering institution.
 
-🥇 **MTM (Mind To Machine) AI Hackathon**
-Developed AI-focused application integrating generative AI capabilities.
+🥇 **MTM (Mind To Machine) AI Hackathon**  
+Developed an AI-focused application integrating Generative AI capabilities.
 
 ---
 
-## 🎓 Professional Experience
+## 💼 Professional Experience
 
-### Full-Stack Web Development & Generative AI Application Development
-**Self-directed Professional Development**
-- Designed and deployed production-grade SaaS applications with modern architecture
-- Integrated Generative AI into full-stack applications using Google Gemini, Vertex AI
-- Developed scalable backend APIs with Node.js, Express, FastAPI
-- Implemented complex database patterns and optimization strategies
-- Created responsive, performant frontend applications with React/Next.js
+### AI Engineering & Business Automation
+**Independent AI Engineer and Automation Specialist**
+
+- Design and deploy production-grade LLM applications and AI agents
+- Build RAG systems for knowledge-grounded business assistance
+- Automate CRM, sales, marketing, customer support, and administrative workflows
+- Develop WhatsApp and voice-based AI interfaces for business operations
+- Integrate business platforms including accounting systems, CRMs, calendars, messaging tools, and payment workflows
+- Build scalable backend APIs, webhooks, event-driven integrations, and executive dashboards
+- Implement document intelligence pipelines for receipts, invoices, and operational records
+
+### Full-Stack Web Development & Generative AI
+
+- Develop SaaS applications using React, Next.js, Node.js, FastAPI, and cloud-native technologies
+- Integrate Gemini, Vertex AI, and other LLM services into real-world applications
+- Design robust database architectures, API layers, authentication systems, and data workflows
+- Build responsive, performant, and user-focused web applications
 
 ### Web Development Internship
 **ILSA Interactive Software House**
+
 - Collaborated on full-stack web application projects
 - Developed frontend and backend components
 - Participated in agile development workflows
 
 ### Artificial Intelligence Internship
 **Code Alpha Software House**
+
 - Worked on AI application development projects
-- Explored AI/ML integration and applications
+- Explored AI and machine learning integrations
 - Contributed to AI-driven software solutions
 
 ---
 
 ## 🎖️ Certifications
 
-- 🎓 **Generative AI Developer** — HEC (Higher Education Commission) 2026
+- 🎓 **Generative AI Developer** — HEC (Higher Education Commission), 2026
 - 🎓 **Google Python Crash Course** — Google Developers
 - 🎓 **Meta Ads Expert** — Meta
 - 🎓 **Canva Graphic Design** — Canva Academy
 
 ---
 
-## 👥 Developer Communities & Leadership
+## 👥 Professional Communities
 
-**Google Developer Groups on Campus (GDGoC) – IST**
-Active participant in technical workshops, developer events, hackathons, and collaborative technology initiatives.
+**Google Developer Groups on Campus (GDGoC) – IST**  
+Participant in technical workshops, developer events, hackathons, and collaborative technology initiatives.
 
-**Artificial Intelligence Community of Pakistan (AICP)**
+**Artificial Intelligence Community of Pakistan (AICP)**  
 Events volunteer supporting AI-focused workshops, technical sessions, and community engagement activities.
-
-**University Sports & Collaboration**
-Participant in sports activities and team initiatives, demonstrating commitment to collaboration and wellness.
 
 ---
 
@@ -291,18 +331,18 @@ Participant in sports activities and team initiatives, demonstrating commitment 
 
 ## 🎯 Current Focus
 
-**Building the Future of AI-Native Applications**
+**Building intelligent, automated, AI-native business systems.**
 
-- 🔬 Generative AI Applications & Integrations
-- 🤖 Advanced AI Agents & Agentic Workflows
-- 💡 RAG Systems & Knowledge-Grounded AI
-- 🧠 Large Language Model (LLM) Applications
-- ⚡ n8n & Zapier Workflow Automation
-- 🎤 Vapi Voice AI & Audio Intelligence
-- 🏗️ AI-Powered SaaS Architecture
-- 📡 Full-Stack Web Applications with Cloud-Native Design
-- 🔐 Scalable Backend APIs & Microservices
-- 🗄️ Advanced Database Architecture & Optimization
+- 🔬 Production LLM applications and Generative AI integrations
+- 🤖 Autonomous AI agents and multi-agent workflows
+- 💡 RAG systems and enterprise knowledge assistants
+- 🔗 CRM, sales, marketing, and customer support automation
+- 💬 WhatsApp conversational business systems
+- 🎤 Voice AI and intelligent call automation
+- 🧾 AI-powered quoting, invoicing, and document processing
+- 🏗️ AI-powered SaaS architecture and internal business platforms
+- 📡 Event-driven APIs, webhooks, and cloud-native systems
+- 📈 Business intelligence, profitability tracking, and executive dashboards
 
 ---
 
@@ -316,8 +356,8 @@ Participant in sports activities and team initiatives, demonstrating commitment 
 
 <div align="center">
 
-**Building intelligent, scalable software solutions with Generative AI and full-stack expertise.**
+**Building intelligent, scalable, and automated business solutions with AI.**
 
-*Open to collaborations on AI applications, full-stack projects, and innovative automation solutions.*
+*Open to collaborations on LLM applications, AI agents, CRM automation, RAG systems, and full-stack AI products.*
 
 </div>
