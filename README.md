@@ -49,8 +49,6 @@ I work with businesses to identify repetitive processes, connect their existing 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=react&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
 
 ### Backend & API Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -121,7 +119,6 @@ I work with businesses to identify repetitive processes, connect their existing 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=black)
 ![WhatsApp Cloud API](https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Xero](https://img.shields.io/badge/Xero-13B5EA?style=for-the-badge&logo=xero&logoColor=white)
 
@@ -173,22 +170,39 @@ Advanced AI-driven platform combining satellite imagery analysis, crop health mo
 
 **An AI-powered investment advisor that helps users make smarter investment decisions by analyzing real-estate and financial data.**
 
-Investo combines AI-driven analysis, financial data ingestion, and a responsive web and mobile experience to provide users with traceable investment recommendations and decision-support insights.
+Investo combines AI-driven analysis, financial data ingestion, and a responsive web experience to provide users with traceable investment recommendations and decision-support insights.
 
 **Key Features:**
 - 🤖 **AI-Driven Investment Recommendations** — Generates data-informed guidance for potential investment opportunities
 - 📊 **Real-Time Investment Analysis** — Processes current real-estate and financial data to support timely decisions
 - 🔐 **User Authentication** — Secure account access and personalized user experiences
 - 🔍 **Traceable AI Reasoning & Scoring** — Makes recommendations more transparent by exposing the reasoning and scoring behind each result
-- 📱 **Responsive React Web Application** — Modern, responsive interface for desktop and mobile browsers
-- 📲 **Native Android App** — Mobile deployment using Capacitor and Android Studio
+- 🖥️ **Responsive React Web Application** — Modern, responsive interface for desktop and mobile browsers
 - 🕷️ **Data Scraping & Feed Ingestion** — Express.js backend for collecting and processing financial and real-estate data
 
-**Technologies:** React, Vite, Node.js, Express.js, Capacitor, Android Studio, Cheerio, JavaScript, HTML, CSS, AI integration, backend APIs, data scraping, and feed ingestion
+**Technologies:** React, Vite, Node.js, Express.js, Cheerio, JavaScript, HTML, CSS, AI integration, backend APIs, data scraping, and feed ingestion
 
 ---
 
-### 4. 💼 Rolled — Business Management SaaS
+### 4. 🛣️ PotholeRadar — Smart Road Damage Reporting Platform
+
+**A modern, premium full-stack web application that helps citizens report and track road damage in real time.**
+
+PotholeRadar uses location-aware reporting, spatial duplicate prevention, photographic evidence, interactive maps, and administrative workflows to help communities surface road issues and help local authorities respond more effectively.
+
+**Key Features:**
+- 🧠 **Smart Duplicate Prevention** — Detects nearby existing reports and lets citizens upvote them instead of creating duplicate records
+- 📍 **High-Precision GPS Sync** — Uses browser location services to center the interactive map and place an accurate report pin
+- 📸 **Photographic Evidence** — Supports image uploads as verification for reported road damage
+- 🛠️ **Admin Control Center** — Gives county and city engineers tools to track, acknowledge, and resolve active reports
+- 📰 **Local Road News & Scraping** — Syncs regional road and hazard updates through scraping and API integrations
+- 🌙 **Premium Dark-Mode Experience** — Provides an interactive, responsive interface designed for modern civic engagement
+
+**Technologies:** React, Vite, Tailwind CSS, React-Leaflet, Motion, Lucide React, Node.js, Express, TypeScript, Firebase Auth, PostgreSQL, Supabase, spatial queries, Cloudinary, image uploads, web scraping, and REST APIs
+
+---
+
+### 5. 💼 Rolled — Business Management SaaS
 
 **An all-in-one business operations platform for invoicing, payroll, and staff management.**
 
@@ -207,7 +221,7 @@ Investo combines AI-driven analysis, financial data ingestion, and a responsive 
 
 ---
 
-### 5. 🏥 Smart Doctor Connect AI — AI Healthcare Assistant
+### 6. 🏥 Smart Doctor Connect AI — AI Healthcare Assistant
 
 **An AI-driven healthcare platform demonstrating LLM integration and intelligent query processing.**
 
@@ -222,7 +236,7 @@ Investo combines AI-driven analysis, financial data ingestion, and a responsive 
 
 ---
 
-### 6. 🎓 CamFord Academiya — Educational Institute Platform
+### 7. 🎓 CamFord Academiya — Educational Institute Platform
 
 **Professional website for a premium O and A Level coaching institution.**
 
@@ -238,7 +252,7 @@ Investo combines AI-driven analysis, financial data ingestion, and a responsive 
 
 ---
 
-### 7. 💱 CurrencyX — Real-Time Currency Converter
+### 8. 💱 CurrencyX — Real-Time Currency Converter
 
 **Lightweight currency conversion application supporting more than 150 currencies.**
 
@@ -313,7 +327,6 @@ Developed an AI-focused application integrating Generative AI capabilities.
 - Integrate Gemini, Vertex AI, OpenAI, and other LLM services into real-world applications
 - Design robust database architectures, API layers, authentication systems, and data workflows
 - Build responsive, performant, and user-focused web applications
-- Develop mobile applications and Android deployments using Capacitor
 
 ### Web Development Internship
 **ILSA Interactive Software House**
@@ -372,8 +385,8 @@ Events volunteer supporting AI-focused workshops, technical sessions, and commun
 - 🎤 Voice AI and intelligent call automation
 - 🧾 AI-powered quoting, invoicing, and document processing
 - 📈 AI-powered investment analysis and financial intelligence
+- 🛣️ Civic technology, geospatial applications, and community reporting platforms
 - 🏗️ AI-powered SaaS architecture and internal business platforms
-- 📱 Cross-platform mobile applications and Android deployments
 - ☁️ AWS, Google Cloud, cloud-native systems, and infrastructure automation
 - 🔄 CI/CD pipelines, DevOps practices, containerization, and production monitoring
 - 📡 Event-driven APIs, webhooks, and scalable backend services
@@ -392,6 +405,6 @@ Events volunteer supporting AI-focused workshops, technical sessions, and commun
 
 **Building intelligent, scalable, and automated business solutions with AI.**
 
-*Open to collaborations on LLM applications, AI agents, CRM automation, RAG systems, cloud platforms, and full-stack AI products.*
+*Open to collaborations on LLM applications, AI agents, CRM automation, RAG systems, cloud platforms, civic technology, and full-stack AI products.*
 
 </div>
