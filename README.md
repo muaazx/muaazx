@@ -299,18 +299,21 @@ I build intelligent systems that connect AI models with real business operations
 
 ## 🏆 Achievements & Hackathons
 
-🏅 **Honorable Mention — International Youth AI Competition**  
-Recognized by the International AI Youth Education Society for **PotholeRadar** in recognition of outstanding achievement in international youth AI competitions held between **June 1, 2026, and September 1, 2026**. Issued on **September 30, 2026**.
+🥇 **First Position — Model Kombat, NaSCon ’26 at FAST-NUCES Islamabad**  
+Won a national-level competition during NaSCon ’26, one of Pakistan’s major student computing conventions, by developing AI/ML models evaluated on machine learning and problem-solving.
 
-🥇 **AI Seekho 2026 Google Antigravity National Hackathon**  
-*Google for Developers × Telenor × Innovista*  
-Developed an AI-orchestrated project demonstrating rapid prototyping, cross-functional teamwork, and AI-native development methodologies.
+🏅 **Honorable Mention — International Youth AI Competition**  
+Recognized for building **PotholeRadar**.
 
 🥇 **GDGoC IST Innovators Challenge** — Top 6 out of 40 teams  
 Recognized for innovative technical solution and presentation excellence.
 
 🥇 **HireOnRank Hackathon** — 4th place out of 44 teams  
 Built a competitive project showcasing full-stack development and problem-solving capabilities.
+
+🥇 **AI Seekho 2026 Google Antigravity National Hackathon**  
+*Google for Developers × Telenor × Innovista*  
+Developed an AI-orchestrated project demonstrating rapid prototyping, cross-functional teamwork, and AI-native development methodologies.
 
 🥇 **COMPPEC 2026 – NUST** — AI and Hackathon Competition  
 Participated in a national-level AI competition at a leading engineering institution.
